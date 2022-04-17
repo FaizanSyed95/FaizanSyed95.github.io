@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.033e0d25.css",
+    "main.js": "/static/js/main.8d00074b.js",
+    "static/media/sign-up.jpg": "/static/media/sign-up.5ac5fd53938c88960115.jpg",
+    "static/media/research.jpg": "/static/media/research.4d4cd1b32597ea6e9c89.jpg",
+    "static/media/publications.jpg": "/static/media/publications.4df1386af25ede7f73c4.jpg",
+    "static/media/Team.jpg": "/static/media/Team.0424a8b83641b13e6ce5.jpg",
+    "index.html": "/index.html",
+    "main.033e0d25.css.map": "/static/css/main.033e0d25.css.map",
+    "main.8d00074b.js.map": "/static/js/main.8d00074b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.033e0d25.css",
+    "static/js/main.8d00074b.js"
+  ]
+}
